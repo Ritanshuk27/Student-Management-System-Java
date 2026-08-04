@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Optional saved data
+students-data.txt
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
